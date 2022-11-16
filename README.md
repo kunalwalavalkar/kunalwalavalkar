@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
--[Port Scanner](https://github.com/KunalWalavalkar/Port-Scanner)
+- [Port Scanner](https://github.com/KunalWalavalkar/Port-Scanner)
 
 
 [twitter]: https://twitter.com/joshmadakor
