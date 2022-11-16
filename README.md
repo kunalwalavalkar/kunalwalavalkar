@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kunal! <br/><a href="">Student</a> and <a href="https://www.linkedin.com/in/kunal-walavalkar-58528a216/"> Cyber Security Enthusiast</a>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>Cyber Security Projects:</h2>
 
 - [Port Scanner](https://github.com/KunalWalavalkar/Port-Scanner)
 - [Active Directory Home Lab](https://github.com/KunalWalavalkar/Active-Directory-Home-Lab)
