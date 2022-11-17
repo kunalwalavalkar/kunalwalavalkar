@@ -6,11 +6,11 @@
 - [NMAP Scanner](https://github.com/KunalWalavalkar/Active-Directory-Home-Lab)
 
 
-[twitter]: https://twitter.com/joshmadakor
+<!-- [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/kunalxwalavalkar/
 [linkedin]: https://linkedin.com/in/kunal-walavalkar-58528a216/
-
+ -->
 <!--
 **kunalwalavalkar/kunalwalavalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
