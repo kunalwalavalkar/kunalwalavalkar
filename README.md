@@ -3,7 +3,7 @@
 <h2>Cyber Security Projects:</h2>
 
 - [Port Scanner](https://github.com/KunalWalavalkar/Port-Scanner)
-- [Active Directory Home Lab](https://github.com/KunalWalavalkar/Active-Directory-Home-Lab)
+- [NMAP Scanner](https://github.com/KunalWalavalkar/Active-Directory-Home-Lab)
 
 
 [twitter]: https://twitter.com/joshmadakor
