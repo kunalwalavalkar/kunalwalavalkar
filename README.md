@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kunal! <br/><a href="">Student</a> and <a href="https://www.linkedin.com/in/kunal-walavalkar-58528a216/"> Cyber Security Enthusiast</a>
+<h1>Hi, I'm Kunal! <br/><a href="https://www.linkedin.com/in/kunal-walavalkar-58528a216/">Student</a> and <a href=""> Cyber Security Enthusiast</a>
 
 <h2>Cyber Security Projects:</h2>
 
