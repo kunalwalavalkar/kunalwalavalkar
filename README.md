@@ -3,8 +3,8 @@
 <h2>Cyber Security Projects:</h2>
 
 - <b>Python</b>
-  - [Port Scanner](https://github.com/KunalWalavalkar/Port-Scanner)
-  - [NMAP Scanner](https://github.com/KunalWalavalkar/Active-Directory-Home-Lab)
+  - [Port Scanner](https://github.com/KunalWalavalkar/port-scanner)
+  - [Port Scanner -version2](https://github.com/KunalWalavalkar/port-scanner-v2)
 
 
 <!-- [twitter]: https://twitter.com/joshmadakor
