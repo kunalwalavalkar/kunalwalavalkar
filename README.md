@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kunal! <br/><a>Student</a> and <a> Cyber Security Enthusiast</a>
+<h1>Hi, I'm Kunal <br/><a>Student</a> and <a> Cyber Security Enthusiast</a>
 
 <h2>Cyber Security Projects:</h2>
 
