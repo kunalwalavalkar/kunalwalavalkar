@@ -5,7 +5,10 @@
 - <b>Python</b>
   - [Port Scanner](https://github.com/KunalWalavalkar/port-scanner)
   - [Port Scanner --version 2](https://github.com/KunalWalavalkar/port-scanner-v2)
+
+- <b>Cryptography</b>
   - [Steganograph](https://github.com/KunalWalavalkar/steganograph)
+  - [Cipher](https://github.com/KunalWalavalkar/cipher)
 
 
 <!-- [twitter]: https://twitter.com/joshmadakor
