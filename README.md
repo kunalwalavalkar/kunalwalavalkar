@@ -1,6 +1,6 @@
 <h2>Hi, I'm Kunal <br/><a>Student</a> and <a> Cyber Security Enthusiast</a></h2>
 
-<h2>Cyber Security Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Python</b>
   - [Port Scanner](https://github.com/KunalWalavalkar/port-scanner)
