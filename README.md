@@ -10,6 +10,9 @@
   - [Steganograph](https://github.com/KunalWalavalkar/steganograph)
   - [Cipher](https://github.com/KunalWalavalkar/cipher)
 
+<h2>Connect:</h2>
+
+- [Instagram](https://www.instagram.com/kunalxwalavalkar/)
 
 <!-- [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
