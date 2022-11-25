@@ -8,7 +8,7 @@
 
 - <b>Cryptography</b>
   - [Steganograph](https://github.com/KunalWalavalkar/steganograph)
-  - [Cipher](https://github.com/KunalWalavalkar/cipher)
+  - [Cipher tools](https://github.com/KunalWalavalkar/cipher)
 
 <h2>Connect:</h2>
 
