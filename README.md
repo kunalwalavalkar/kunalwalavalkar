@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [Port Scanner](https://github.com/KunalWalavalkar/port-scanner)
-  - [Port Scanner --v2](https://github.com/KunalWalavalkar/port-scanner-v2)
+  - [Port Scanner --version 2](https://github.com/KunalWalavalkar/port-scanner-v2)
 
 - <b>Cryptography</b>
   - [Steganograph](https://github.com/KunalWalavalkar/steganograph)
