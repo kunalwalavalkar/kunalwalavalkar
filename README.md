@@ -3,8 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>Recon</b>
-  - [Port Scanner](https://github.com/KunalWalavalkar/port-scanner)
-  - [Port Scanner --version 2](https://github.com/KunalWalavalkar/port-scanner-v2)
+  - [Port Scanner v1](https://github.com/KunalWalavalkar/port-scanner)
 
 - <b>Cryptography</b>
   - [Steganograph](https://github.com/KunalWalavalkar/steganograph)
