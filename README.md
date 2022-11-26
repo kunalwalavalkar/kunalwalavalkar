@@ -13,9 +13,7 @@
 - <b>Risk Analysis</b>
   - [OHORNET](https://github.com/KunalWalavalkar/OHORNET)
 
-<h2>Connect:</h2>
 
-- [Instagram](https://www.instagram.com/kunalxwalavalkar/)
 
 <!-- [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
