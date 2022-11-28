@@ -11,7 +11,7 @@
   - [Cipher](https://github.com/KunalWalavalkar/cipher)
 
 - <b>Risk Analysis</b>
-  - [OHORNET](https://github.com/KunalWalavalkar/OHORNET)
+  - [Calculator](https://github.com/KunalWalavalkar/riskcalculator)
 
 
 
