@@ -4,7 +4,7 @@
 
 - <b>Recon</b>
   - [Port Scanner](https://github.com/KunalWalavalkar/portscanner)
-  - [Port Scanner v2](https://github.com/KunalWalavalkar/portscannerv2)
+  - [Threaded Port Scanner](https://github.com/KunalWalavalkar/threadedportscanner)
   - [Network Scanner](https://github.com/KunalWalavalkar/networkscanner)
 
 - <b>Cryptography</b>
