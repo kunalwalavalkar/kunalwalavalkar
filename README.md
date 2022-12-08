@@ -13,6 +13,8 @@
 - <b>Risk Analysis</b>
   - [Calculator](https://github.com/KunalWalavalkar/riskcalculator)
 
+- [Blog](https://medium.com/@kunalw2002)
+
 
 
 <!-- [twitter]: https://twitter.com/joshmadakor
