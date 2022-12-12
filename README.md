@@ -2,15 +2,12 @@
 
 <h2>Projects:</h2>
 
-- <b>Recon</b>
-  - [Port Scanner](https://github.com/KunalWalavalkar/portscanner)
+- <b>Python</b>
+  - [Cipher](https://github.com/KunalWalavalkar/cipher)
   - [Threaded Port Scanner](https://github.com/KunalWalavalkar/threadedportscanner)
   - [Network Scanner](https://github.com/KunalWalavalkar/networkscanner)
 
-- <b>Cryptography</b>
-  - [Cipher](https://github.com/KunalWalavalkar/cipher)
-
-- <b>Risk Analysis</b>
+- <b>Web development</b>
   - [Calculator](https://github.com/KunalWalavalkar/riskcalculator)
 
 
