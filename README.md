@@ -6,6 +6,7 @@
   - [Cipher](https://github.com/KunalWalavalkar/Cipher)
   - [Threaded Port Scanner](https://github.com/KunalWalavalkar/Threaded-Port-Scanner)
   - [Network Scanner](https://github.com/KunalWalavalkar/Network-Scanner)
+  - [Image Metadata Viewer](https://github.com/KunalWalavalkar/Image-Metadata-Viewer)
 
 - <b>Web development</b>
   - [Calculator](https://github.com/KunalWalavalkar/riskcalculator)
