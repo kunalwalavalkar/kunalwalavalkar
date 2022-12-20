@@ -3,9 +3,9 @@
 <h2>Projects:</h2>
 
 - <b>Python</b>
-  - [Cipher](https://github.com/KunalWalavalkar/cipher)
-  - [Threaded Port Scanner](https://github.com/KunalWalavalkar/threadedportscanner)
-  - [Network Scanner](https://github.com/KunalWalavalkar/networkscanner)
+  - [Cipher](https://github.com/KunalWalavalkar/Cipher)
+  - [Threaded Port Scanner](https://github.com/KunalWalavalkar/Threaded-Port-Scanner)
+  - [Network Scanner](https://github.com/KunalWalavalkar/Network-Scanner)
 
 - <b>Web development</b>
   - [Calculator](https://github.com/KunalWalavalkar/riskcalculator)
