@@ -9,7 +9,7 @@
   - [Image Metadata Viewer](https://github.com/KunalWalavalkar/Image-Metadata-Viewer)
 
 - <b>Web development</b>
-  - [Calculator](https://github.com/KunalWalavalkar/riskcalculator)
+  - [Risk Calculator](https://github.com/KunalWalavalkar/riskcalculator)
 
 
 
