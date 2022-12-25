@@ -1,14 +1,14 @@
-<h1>Hi, I'm Kunal <br/><a>Student</a> and <a> Cyber Security Enthusiast</a></h1>
+# Hi, I'm Kunal <br/><a>Student</a> and <a> Cyber Security Enthusiast</a>
 
-<h2>Projects:</h2>
+## Projects:
 
-- <b>Python</b>
+- ### Python ###
   - [Cipher](https://github.com/KunalWalavalkar/Cipher)
   - [Threaded Port Scanner](https://github.com/KunalWalavalkar/Threaded-Port-Scanner)
   - [Network Scanner](https://github.com/KunalWalavalkar/Network-Scanner)
   - [Image Metadata Viewer](https://github.com/KunalWalavalkar/Image-Metadata-Viewer)
 
-- <b>Web development</b>
+- ### Web development ###
   - [Risk Calculator](https://github.com/KunalWalavalkar/Risk-Calculator)
   - [Signum](https://github.com/KunalWalavalkar/Signum)
 
